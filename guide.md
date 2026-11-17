@@ -1,4 +1,3 @@
-```markdown
 # iNaturalist Development Setup Guide for Ubuntu on WSL
 
 This guide walks through setting up the iNaturalist Rails web application and Node.js API on Ubuntu running inside WSL 2, including all required system dependencies, optional GIS/admin setup, and fixes for common compilation and environment issues.
